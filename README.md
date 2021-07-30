@@ -1,4 +1,4 @@
-### Hii! Eu sou a Fernanda Vincenzo!
+### Hii! Eu sou a Fernanda!
 
  <div>
   <a href="https://github.com/fernandavincenzo">
