@@ -10,7 +10,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Html" height="30" width="40"
-src="https://user-images.githubusercontent.com/83252256/145757159-373276bf-8319-4bce-9859-72ce96301b0f.png"">
+src="https://user-images.githubusercontent.com/83252256/145757426-df8d11ed-4481-4214-9170-ce958087584a.png">
   <img align="right" alt="Fernanda-gif" src="https://i.picasion.com/pic91/50045974506ab90599533d1a4c914dea.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
    
