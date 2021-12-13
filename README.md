@@ -17,9 +17,8 @@ src="https://user-images.githubusercontent.com/83252256/145757426-df8d11ed-4481-
 ##
    
  <div> 
-  <a href="https://instagram.com/nandavincenzo" target="_blank"><img src="![image](https://user-images.githubusercontent.com/83252256/145827662-fa076aa1-40d6-4c36-a1c7-e31af0476d6a.png)" target="_blank"></a>
-  <a href = "mailto:fernanda.vincenzo165@gmail.com"><img src="![image](https://user-images.githubusercontent.com/83252256/145827840-5e8bed25-1aac-427e-b475-46f9e4a13f10.png)
-" target="_blank"></a>
+  <a href="https://instagram.com/nandavincenzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href = "mailto:fernanda.vincenzo165@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/fernandavincenzo/fernandavincenzo/blob/output/github-contribution-grid-snake.svg)
